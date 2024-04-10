@@ -1,5 +1,4 @@
 requests
 spotipy
 pillow
-pandas
 tabulate
